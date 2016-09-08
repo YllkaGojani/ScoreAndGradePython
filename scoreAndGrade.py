@@ -20,3 +20,4 @@ def scoreAndGrade():
 
 
 scoreAndGrade()
+#Nice work on catching any scores outside of the range 60 - 100... grade = 'undefined'!
